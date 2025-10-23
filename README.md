@@ -1,2 +1,2 @@
 # Shorts
-Useful scripts I use daily
+Useful scripts for daily use.
